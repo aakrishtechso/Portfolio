@@ -12,7 +12,7 @@ export const PERSONAL_INFO = {
   location: 'India',
   bio: 'Founder of MyRyedo and builder of Aakrish Tech. I turn ideas into real digital products, high-converting platforms, and scalable growth systems.',
   // Real resume file served directly from public/
-  resumeUrl: 'https://drive.google.com/file/d/1lWVO0UfvwafWZWyuUrdrg7NL9ict5qrM/view?usp=drive_link',
+  resumeUrl: 'https://drive.google.com/file/d/1JNWUGzjKU1r-2O95PFH62jSBpdqVTX6s/view?usp=sharing',
   socialLinks: {
     github: 'https://github.com/ajeetlodhii',
     linkedin: 'https://linkedin.com',
